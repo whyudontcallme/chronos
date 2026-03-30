@@ -29,7 +29,7 @@ Chronos — это минималистичное веб-приложение, �
 
 Создано с 💜 для борьбы с прокрастинацией.
 
-**[Ваш LinkedIn](https://linkedin.com/in/ваш-профиль)** 
+**[Ваш LinkedIn]([https://linkedin.com/in/ваш-профиль](https://www.linkedin.com/in/%D0%BC%D1%83%D1%81%D0%BE-%D1%88%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2-1907483bb/?locale=en-US))** 
 
 ---
 
