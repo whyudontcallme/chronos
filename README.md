@@ -1,4 +1,4 @@
-#[⏳ Chronos](https://whyudontcallme.github.io/chronos/Chronos.html) 
+## [⏳ Chronos](https://whyudontcallme.github.io/chronos/Chronos.html) 
    
 **3D-визуализация прокрастинации** — смотрите, как ваше время превращается в чёрную массу.
 
