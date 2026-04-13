@@ -1,4 +1,4 @@
-## [⏳ Chronos](https://whyudontcallme.github.io/chronos/Chronos.html) 
+## [⚪ Chronos](https://whyudontcallme.github.io/chronos/Chronos.html) 
    
 [**3D-визуализация прокрастинации** — смотрите, как ваше время превращается в чёрную массу.](https://whyudontcallme.github.io/chronos/Chronos.html) 
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 О проекте
+## ⚪ О проекте
 
 Chronos — это минималистичное веб-приложение, которое визуализирует потерянное время в реальном времени. Создано для борьбы с прокрастинацией.
 
